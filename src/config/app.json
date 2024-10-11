@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "id": "1",
+      "label": "AC",
+      "action": "reset",
+      "color": "#a6a6a6"
+    },
+    {
+      "id": "2",
+      "label": "<-",
+      "action": "back",
+      "color": "#a6a6a6"
+    },
+    {
+      "id": "3",
+      "label": "%",
+      "action": " % ",
+      "color": "#a6a6a6"
+    },
+    {
+      "id": "4",
+      "label": "/",
+      "action": " / ",
+      "color": "#FF9500"
+    },
+    {
+      "id": "5",
+      "label": "7",
+      "action": "7",
+      "color": "#333333"
+    },
+    {
+      "id": "6",
+      "label": "8",
+      "action": "8",
+      "color": "#333333"
+    },
+    {
+      "id": "7",
+      "label": "9",
+      "action": "9",
+      "color": "#333333"
+    },
+    {
+      "id": "8",
+      "label": "X",
+      "action": " * ",
+      "color": "#FF9500"
+    },
+    {
+      "id": "9",
+      "label": "4",
+      "action": "4",
+      "color": "#333333"
+    },
+    {
+      "id": "10",
+      "label": "5",
+      "action": "5",
+      "color": "#333333"
+    },
+    {
+      "id": "11",
+      "label": "6",
+      "action": "6",
+      "color": "#333333"
+    },
+    {
+      "id": "12",
+      "label": "-",
+      "action": " - ",
+      "color": "#FF9500"
+    },
+    {
+      "id": "13",
+      "label": "1",
+      "action": "1",
+      "color": "#333333"
+    },
+    {
+      "id": "14",
+      "label": "2",
+      "action": "2",
+      "color": "#333333"
+    },
+    {
+      "id": "15",
+      "label": "3",
+      "action": "3",
+      "color": "#333333"
+    },
+    {
+      "id": "16",
+      "label": "+",
+      "action": " + ",
+      "color": "#FF9500"
+    },
+    {
+      "id": "13",
+      "label": "|",
+      "action": "|",
+      "color": "#333333"
+    },
+    {
+      "id": "14",
+      "label": "0",
+      "action": "0",
+      "color": "#333333"
+    },
+    {
+      "id": "15",
+      "label": ",",
+      "action": ".",
+      "color": "#333333"
+    },
+    {
+      "id": "16",
+      "label": "=",
+      "action": "calc",
+      "color": "#FF9500"
+    }
+  ]
+}
